@@ -119,6 +119,8 @@ onMounted(() => {
 
 
 <style>
+/* memperbaiki tampilan css */
+
 html, body, #app {
   padding: 0;
   width: 100%;
