@@ -81,6 +81,7 @@ onMounted(() => {
       <div class="card">
         <h2>📋 DAFTAR GERAKAN </h2>
 
+        <!-- menambahkan gerakan yang sudah selesai  -->
         <label class="toggle-show">
           <input type="checkbox" v-model="showCompleted" />
           Tampilkan gerakan yang sudah selesai
