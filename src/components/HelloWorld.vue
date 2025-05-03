@@ -23,6 +23,7 @@ const addTask = () => {
   }
 };
 
+// tambah dan hapus
 const deleteTask = (index) => {
   tasks.value.splice(index, 1);
   cancelEdit();
