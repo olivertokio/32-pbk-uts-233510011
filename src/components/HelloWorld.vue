@@ -1,7 +1,7 @@
 <script setup>
 import { ref, computed, onMounted } from 'vue';
 
-
+// ini bagian list
 const tasks = ref([
   { name: "Bench Press", done: false },
   { name: "Bicep Curl", done: true },
