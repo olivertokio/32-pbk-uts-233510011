@@ -239,7 +239,7 @@ h2 {
   cursor: pointer;
   transition: color 0.2s;
 }
-
+/* mengedit tombol warna */
 .edit-btn:hover {
   color: #74c0fc;
 }
