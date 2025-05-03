@@ -64,9 +64,7 @@ onMounted(() => {
 <template>
   <!-- menambahkan background foto -->
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
-    <a href="#" target="_blank">
-      <img src="./assets/1.jpg" class="" alt="" />
-    </a> 
+  
 
   <div id="app">
     <!-- Navbar -->
