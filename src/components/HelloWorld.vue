@@ -62,7 +62,7 @@ onMounted(() => {
 </script>
 
 <template>
-  
+  <!-- menambahkan background foto -->
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
     <a href="#" target="_blank">
       <img src="./assets/1.jpg" class="" alt="" />
@@ -127,7 +127,7 @@ html, body, #app {
   width: 100%;
   min-height: 100vh;
   font-family: 'Poppins', sans-serif;
-  background: url('@/assets/22.jpg') no-repeat center center fixed;
+  background: url('@/assets/22.jpg') no-repeat center center fixed; 
   background-size: cover;
   color: #fff;
 }
