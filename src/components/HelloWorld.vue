@@ -121,7 +121,7 @@ onMounted(() => {
 
 <style>
 /* memperbaiki tampilan css */
-
+/* memperbaiki agar menjadi di tengah */
 html, body, #app {
   padding: 0;
   width: 100%;
